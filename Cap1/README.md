@@ -1,6 +1,6 @@
-#Cap 1 - Análise Exploratória de Dados (AED)
+# Cap 1 - Análise Exploratória de Dados (AED)
 
-# ---- Highlights ---- 
+## ---- Highlights ---- 
 
 Dados Contínuos: Dados que podem assumir qualquer valor em um intervalo.
 Dados Discretos: Dados que podem assumir apenas valores inteiros.

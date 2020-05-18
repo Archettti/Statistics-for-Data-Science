@@ -2,8 +2,8 @@
 
 ## Highlights
 
-Dados Contínuos: Dados que podem assumir qualquer valor em um intervalo.
-Dados Discretos: Dados que podem assumir apenas valores inteiros.
+Dados Contínuos: Dados que podem assumir qualquer valor em um intervalo.  
+Dados Discretos: Dados que podem assumir apenas valores inteiros.  
 Categóricos (Binários e Ordinais): Dados que podem assumir um conjunto específico de valores representando um conjunto de possíveis de categorias.
 
 ### Estimativas de Localização
